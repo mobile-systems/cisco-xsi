@@ -19,3 +19,4 @@
 		<URL>http://<? $hostname ?>/delete.asp</URL>
 	</SoftKeyItem>
 </CiscoIPPhoneMenu>
+<!-- https://coolestguidesontheplanet.com/installing-postgresql-database-os-x-10-9-mavericks-configure-phppgadmin/ -->

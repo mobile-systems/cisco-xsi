@@ -1,3 +1,4 @@
+<?php require 'config.php' ?>
 <?xml version="1.0" encoding="utf-8" ?>
 <CiscoIPPhoneMenu>
 	<Title>Message List <? $title ?></Title>
@@ -19,4 +20,3 @@
 		<URL>http://<? $hostname ?>/delete.asp</URL>
 	</SoftKeyItem>
 </CiscoIPPhoneMenu>
-<!-- https://coolestguidesontheplanet.com/installing-postgresql-database-os-x-10-9-mavericks-configure-phppgadmin/ -->
